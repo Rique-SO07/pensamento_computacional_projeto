@@ -33,7 +33,7 @@ while True:
     print('2. Esqueceu a senha')        
     print('3. Menu')
     print('4. Carrinho')
-    print('5. Opições')
+    print('5. Opções')
     print('6. Finalizar Pedido')
     print('7. Cupom')
     print('8. Chat da loja')
@@ -41,7 +41,7 @@ while True:
     print('0. Sair')
     print('-' * 25)
 
-    acessar_menu = input("\n escolha uma opção:\n")
+    acessar_menu = input("\n Escolha uma opção: ")
 
     if acessar_menu == '1':
         print("\n === Cadastro === \n")
